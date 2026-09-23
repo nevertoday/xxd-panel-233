@@ -60,7 +60,7 @@ The yarn must read as thick loop pile, soft relief, imperfect edges and hand err
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-233 --skill xxd-panel-233
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-233 --skill xxd-panel-233
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-233`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
