@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 233｜Tufted Yarn Wall Hanging: reduces a photo's subject to a few rounded, slightly naive tufted textile pieces — thick loop-pile yarn, soft raised relief, imperfect edges, small handmade inconsistencies and a little embroidery-like detail — scattered small, sparse and asymmetrical on a clean, flat, very pale solid background matched to the photo's colour temperature (warm white, cream, mist white, pale pink or pale blue) with no walls, furniture or room, in bright clean colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach), lots of negative space and a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-233 or asks for tufted rug, loop-pile yarn or textile wall-art pieces from a photo.",
+  "short_description": "簇绒纤维壁饰：把照片重做成几块散落在浅色纯底上的圈绒纱线壁饰",
+  "zh-CN": {
+    "name": "簇绒纤维壁饰",
+    "tagline": "把照片重做成几小块亮色圈绒纱线壁饰，散落在浅色纯底上。",
+    "look": "照片主体被压成少量圆润、略稚拙的簇绒纤维图像：厚实的圈绒纱线、柔软的浮雕起伏、不太规整的边缘、手工的小误差，偶尔加一点刺绣式细节。这些小块稀疏、不对称地散在一片干净平整的极浅纯色底上，底色按照片色温在暖白、奶油白、雾灰白、浅粉白或浅蓝白之间选，不出现墙面、家具或房间。颜色取照片里最明亮的部分并提纯，如天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉。大量负空间，边角放几处小而轻的字。",
+    "traits": ["簇绒", "圈绒纱线", "浅色纯底", "明快取色", "小尺度", "大量留白"],
+    "good": [
+      "轮廓简单、颜色明快的主体：一朵花、一只鸟、一个太阳、一只狗",
+      "能拆成几样小东西的画面：海边的船和浪、果盘、窗台上的盆栽",
+      "想做家居装饰画、儿童房视觉或独立工艺展览图像的照片"
+    ],
+    "poor": [
+      "需要细小精确细节的照片：文字招牌、人脸表情、机械零件，粗纱线表现不了",
+      "灰暗、复古、低饱和气质的照片，配色会被明显提亮",
+      "想展示真实房间或墙面挂饰效果的需求，这里只有纯色底"
+    ]
+  },
+  "en": {
+    "name": "Tufted Yarn Wall Hanging",
+    "tagline": "Remakes a photo as a few small, bright loop-pile yarn wall pieces scattered on a pale plain background.",
+    "look": "Your subject is reduced to a few rounded, slightly naive tufted textile pieces: thick loop-pile yarn, soft raised relief, irregular edges and small handmade inconsistencies, sometimes with a little embroidery-like detail. They are scattered sparsely and asymmetrically on a clean, flat, very pale solid background chosen from the photo's colour temperature, such as warm white, cream, misty grey-white, pale pink or pale blue, with no wall, furniture or room. Colours are the brightest ones in the photo made cleaner, such as sky blue, lake teal, fresh green, warm yellow, coral and peach. There is plenty of negative space, with a few small, light words at the edges.",
+    "traits": ["Tufting", "Loop-pile yarn", "Pale plain background", "Bright colour", "Small scale", "Lots of white space"],
+    "good": [
+      "Subjects with a simple outline and bright colour: a flower, a bird, a sun, a dog",
+      "Images that split into a few small things: a boat and waves, a fruit bowl, plants on a windowsill",
+      "Photos you want as home decor art, a nursery visual or an image for an independent craft show"
+    ],
+    "poor": [
+      "Photos that need small, precise detail, such as shop signs, facial expressions or machine parts, which thick yarn cannot show",
+      "Grey, vintage or muted photos, since the colours are clearly brightened",
+      "Requests to show a real room or a rug hanging on a wall, since only a plain background is used"
+    ]
+  },
+  "ja": {
+    "name": "タフティングの繊維壁飾り",
+    "tagline": "写真を、淡い無地の地に散らした明るいループパイルの小さな壁飾り数点に作り直します。",
+    "look": "主役を、丸く少し素朴なタフティングの繊維の図像数点にまとめます。厚いループパイルの糸、柔らかな盛り上がり、整いきらない縁、手仕事の小さな誤差があり、ときどき刺繍のような細部が少し入ります。それらはまばらに非対称に、きれいで平らなごく淡い無地の地に散らされます。地の色は写真の色温度に合わせて暖かな白、クリーム、霧のような灰白、淡いピンク、淡い青などから選ばれ、壁、家具、部屋は出てきません。色は写真でいちばん明るい色を澄ませた空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチなど。余白はたっぷりで、隅に小さく軽い文字が少し入ります。",
+    "traits": ["タフティング", "ループパイルの糸", "淡い無地の地", "明るい色", "小さなスケール", "たっぷりの余白"],
+    "good": [
+      "輪郭がシンプルで色の明るい主役：花、鳥、太陽、犬",
+      "いくつかの小さな物に分けられる場面：海辺の船と波、果物の盛り皿、窓辺の鉢植え",
+      "インテリアの飾り絵、子ども部屋のビジュアル、クラフト展の画像にしたい写真"
+    ],
+    "poor": [
+      "小さく正確な細部が必要な写真：看板の文字、顔の表情、機械の部品（太い糸では表せません）",
+      "灰色っぽい、レトロ、低彩度の雰囲気の写真（色ははっきり明るくなります）",
+      "実際の部屋や壁に掛けた様子を見せたい場合（地は無地だけです）"
+    ]
+  },
+  "ko": {
+    "name": "터프팅 섬유 벽장식",
+    "tagline": "사진을 옅은 단색 바탕 위에 흩어진 밝은 루프 파일 실 벽장식 몇 점으로 다시 만듭니다.",
+    "look": "주인공을 둥글고 조금 서툰 터프팅 섬유 이미지 몇 점으로 줄입니다. 두툼한 루프 파일 실, 부드러운 부조감, 고르지 않은 가장자리, 손으로 만든 작은 오차가 있고, 가끔 자수 같은 세부가 조금 들어갑니다. 이 조각들은 깨끗하고 평평한 아주 옅은 단색 바탕 위에 드문드문, 비대칭으로 흩어집니다. 바탕색은 사진의 색온도에 맞춰 따뜻한 흰색, 크림색, 안개 낀 회백색, 연분홍, 연하늘 등에서 고르며, 벽, 가구, 방은 나오지 않습니다. 색은 사진에서 가장 밝은 색을 맑게 다듬은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색, 복숭아색 등입니다. 여백은 넉넉하고 모서리에 작고 가벼운 글자가 조금 들어갑니다.",
+    "traits": ["터프팅", "루프 파일 실", "옅은 단색 바탕", "밝은 색", "작은 크기", "넉넉한 여백"],
+    "good": [
+      "윤곽이 단순하고 색이 밝은 주인공: 꽃, 새, 해, 강아지",
+      "작은 사물 몇 개로 나눌 수 있는 장면: 바닷가의 배와 파도, 과일 접시, 창가 화분",
+      "인테리어 액자, 아이 방 비주얼, 공예 전시 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "작고 정확한 세부가 필요한 사진: 간판 글자, 얼굴 표정, 기계 부품(굵은 실로는 표현되지 않습니다)",
+      "칙칙하거나 복고적이거나 채도 낮은 분위기의 사진(색이 확실히 밝아집니다)",
+      "실제 방이나 벽에 건 모습을 보여 주고 싶은 경우(바탕은 단색뿐입니다)"
+    ]
+  },
+  "ar": {
+    "name": "معلّقة جدارية من الغزل المعقود",
+    "tagline": "يعيد صنع الصورة بضع قطع جدارية صغيرة زاهية من الغزل المعقود الحلقي، متناثرة على خلفية سادة فاتحة.",
+    "look": "يُختزل العنصر الرئيسي إلى بضع قطع نسيجية معقودة مستديرة فيها شيء من العفوية: غزل حلقي سميك، ونتوء ناعم، وحواف غير منتظمة، وتفاوتات صغيرة من صنع اليد، وأحياناً تفصيل صغير يشبه التطريز. تتناثر القطع متباعدة وغير متناظرة على خلفية سادة نظيفة مسطّحة فاتحة جداً، يُختار لونها بحسب حرارة ألوان الصورة، كالأبيض الدافئ أو الكريمي أو الأبيض الرمادي الضبابي أو الوردي الفاتح أو الأزرق الفاتح، دون جدار أو أثاث أو غرفة. الألوان هي أكثر ألوان الصورة إشراقاً بعد تنقيتها، مثل أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي. الفراغ السلبي واسع، وفي الأطراف كلمات قليلة صغيرة خفيفة.",
+    "traits": ["غزل معقود", "خيوط حلقية", "خلفية سادة فاتحة", "ألوان زاهية", "حجم صغير", "فراغ واسع"],
+    "good": [
+      "عناصر بسيطة الحدود زاهية اللون: زهرة، طائر، شمس، كلب",
+      "صور يمكن تقسيمها إلى أشياء صغيرة: قارب وأمواج، طبق فاكهة، نباتات على حافة نافذة",
+      "صور تريدها لوحة لديكور المنزل أو صورة لغرفة طفل أو لمعرض حِرف مستقل"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل صغيرة دقيقة كاللافتات المكتوبة وتعابير الوجه وقطع الآلات، فلا يستطيع الغزل السميك إظهارها",
+      "صور رمادية أو عتيقة أو باهتة، إذ تُفتَّح ألوانها بوضوح",
+      "طلب إظهار غرفة حقيقية أو سجادة معلّقة على جدار، فالخلفية سادة فقط"
+    ]
+  }
+}

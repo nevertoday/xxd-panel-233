@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-233
-description: "Create XXD Panel 233 raster artwork: a faithful photograph paired with a small tufted-textile wall hanging of loop-pile yarn, naïve rounded forms, bright clear source-derived colour and vast pale negative space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-233 or asks for this 簇绒纤维壁饰 style."
+description: "XXD Panel 233｜Tufted Yarn Wall Hanging: reduces a photo's subject to a few rounded, slightly naive tufted textile pieces — thick loop-pile yarn, soft raised relief, imperfect edges, small handmade inconsistencies and a little embroidery-like detail — scattered small, sparse and asymmetrical on a clean, flat, very pale solid background matched to the photo's colour temperature (warm white, cream, mist white, pale pink or pale blue) with no walls, furniture or room, in bright clean colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach), lots of negative space and a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-233 or asks for tufted rug, loop-pile yarn or textile wall-art pieces from a photo."
 ---
 
 # XXD Panel 233
